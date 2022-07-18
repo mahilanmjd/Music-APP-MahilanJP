@@ -27,11 +27,11 @@ const songs = [
     duration: '3:57',
   },
   {
-    title: 'Warning',
-    artist: 'A Kay',
+    title: 'Unstoppable',
+    artist: 'SIA',
     coverPath: 'images/cover3.jpg',
     discPath: 'music/music3.mp3',
-    duration: '3:34',
+    duration: '4:06',
   },
   {
     title: 'The Way You Felt',
@@ -151,6 +151,27 @@ const songs = [
     coverPath: 'images/cover20.jpg',
     discPath: 'music/music20.mp3',
     duration: '3:29',
+  },
+  {
+    title: 'Bullet - The Warrior',
+    artist: 'Silambarasan TR',
+    coverPath: 'images/cover21.jpg',
+    discPath: 'music/music21.mp3',
+    duration: '3:59',
+  },
+  {
+    title: 'Yaar Azhaippadhu',
+    artist: 'Sid Sriram',
+    coverPath: 'images/cover22.jfif',
+    discPath: 'music/music22.mp3',
+    duration: '4:10',
+  }, 
+  {
+    title: 'Reunion',
+    artist: 'Dimitri, Like Mike, Kshmr And Alok',
+    coverPath: 'images/cover23.jpg',
+    discPath: 'music/music23.mp3',
+    duration: '2:42',
   },
 ];
 
